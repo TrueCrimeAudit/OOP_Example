@@ -1,7 +1,7 @@
 # Car Dashboard Simulator
 
 <div align="center">
-  <img src="dashboard.png" alt="Car Dashboard Interface" width="600">
+  <img src="Dashboard.png" alt="Car Dashboard Interface" width="600">
 </div>
 
 ## Overview
